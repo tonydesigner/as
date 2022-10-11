@@ -10,7 +10,7 @@
     </div><!-- cxTopG -->
 
     <div class="cxTop">
-        <button>Contato</button>
+        <button>Orçamento</button>
     </div><!-- cxTop -->
     
 </div>
