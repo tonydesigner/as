@@ -19,8 +19,9 @@
             <?php include 'pgs/inform.php' ;?>
         </section>
         <section>
-            <div class="proximo"></div>
+            <div class="proximo"> </div>
         </section>
+    
         
     </main>
 
