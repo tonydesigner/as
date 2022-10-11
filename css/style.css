@@ -46,7 +46,7 @@ html,body{font-family: 'Montserrat', sans-serif; height: 100vh;background-color:
 .item{height: 150px; text-align: center; color: #fff;padding:1em;}
 .item p{margin-top:1em;}
 
-.proximo{height:350px;background-color:green;}
+.proximo{height:350px;}
 
 @keyframes animeH1{
     0%{

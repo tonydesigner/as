@@ -19,7 +19,9 @@
             <?php include 'pgs/inform.php' ;?>
         </section>
         <section>
-            <div class="proximo"> </div>
+            <div class="proximo">
+                AQUI ENTRARÃO AS PROXIMAS INFORMAÇÕES
+            </div>
         </section>
     
         
