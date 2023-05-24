@@ -1,2 +1,2 @@
 # as
-https://ascomunicacao.epizy.com
+http://ascomunicacao.epizy.com/?i=1
